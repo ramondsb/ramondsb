@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-ramondsb-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/ramondsb)](http://github.com/ramondsb)
 
 
-## Hello World! 👋
+## Hello World!
 
 ### About
 
@@ -15,6 +15,6 @@
 
 ___
 
-> He suffers more than necessary, who suffers before it is necessary - Seneca
+> Suffers more than necessary, who suffers before it is necessary - Seneca
 
 > Without music, life would be a mistake - Nietzsche

@@ -9,12 +9,10 @@
 ### About
 
 - :high_brightness: Backend Software Engineer
-- 🌱 I’m currently learning Functional Programming and DDD
-- 💬 Ask me about: tech, history, heavy metal, table tennis
--  ⚡ Languages: Scala, Javascript, Python and Java
+- 🌱 I’m currently learning Functional Programming
+- 💬 Ask me about: tech, history, heavy metal,and table tennis
+-  ⚡ Languages: Typescript, Javascript, Scala
 
 ___
 
 > Suffers more than necessary, who suffers before it is necessary - Seneca
-
-> Without music, life would be a mistake - Nietzsche

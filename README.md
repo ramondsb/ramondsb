@@ -11,7 +11,7 @@
 - :high_brightness: Backend Software Engineer
 - 🌱 I’m currently learning Functional Programming
 - 💬 Ask me about: tech, history, heavy metal,and table tennis
--  ⚡ Languages: Typescript, Javascript, Scala
+-  ⚡ Languages: Scala, Java, Typescript
 
 ___
 
